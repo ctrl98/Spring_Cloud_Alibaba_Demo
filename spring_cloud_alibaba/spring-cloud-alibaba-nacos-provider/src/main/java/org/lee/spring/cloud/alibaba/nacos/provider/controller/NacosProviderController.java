@@ -13,6 +13,6 @@ public class NacosProviderController {
 
     @GetMapping(value = "/echo/{message}")
     public String echo(@PathVariable String message) {
-        return "Hello Nacos Discovery " + message + "i am from port " + port;
+        return "Hello Nacos Discovery " + message + " i am from port " + port;
     }
 }
