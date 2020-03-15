@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-alibaba-nacos-consumer-feign" />
         <module name="spring-cloud-alibaba-nacos-provider" />
+        <module name="spring-cloud-external-skywalking" />
         <module name="spring-cloud-gateway" />
         <module name="spring-cloud-alibaba-nacos-consumer" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="spring-cloud-alibaba-nacos-consumer" target="11" />
       <module name="spring-cloud-alibaba-nacos-consumer-feign" target="11" />
       <module name="spring-cloud-alibaba-nacos-provider" target="11" />
+      <module name="spring-cloud-external-skywalking" target="1.5" />
       <module name="spring-cloud-gateway" target="11" />
     </bytecodeTargetLevel>
   </component>
