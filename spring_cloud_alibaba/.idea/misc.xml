@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/spring-cloud-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-external-skywalking/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-alibaba-rocketmq-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-alibaba-rocketmq-consumer/pom.xml" />
       </list>
     </option>
   </component>
